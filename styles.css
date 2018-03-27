@@ -1,0 +1,46 @@
+
+
+
+
+title{
+*{
+	box-shadow: border box;
+}
+
+color :blue;
+font-faimily :verdana;
+}
+ p{
+ colour: black;
+ font-family- courier;
+ }
+ h1{
+ 
+ 
+ color: green ;
+ text-align: center;
+ text-decoration: blink;
+ }
+
+ button :hover {
+ 	text-transform: scale(1.2) rotate(50deg);
+ 	text-align: center;
+ 
+
+
+ 
+ } 
+
+
+
+body{
+	text-align: center;
+	color: black;
+	background-position: center;
+
+
+} 
+
+footer{
+
+}
